@@ -5,7 +5,7 @@ Website - [https://sakshamkhurana.com](https://sakshamkhurana.com)
 
 ### 📫 Reach me at
 * [Twitter](https://twitter.com/dawnimpulse)
-* [Email](mailto:dawnimpulse@gmail.com)
+* [Email](mailto:hello@sakshamkhurana.com)
 
 ### 🏹 My Statistics
 ![](https://github-readme-stats.vercel.app/api?username=dawnimpulse&show_icons=true&theme=drakula&count_private=true&custom_title=DawnImpulse)
