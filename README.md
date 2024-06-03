@@ -8,9 +8,9 @@ Website - [https://sakshamkhurana.com](https://sakshamkhurana.com)
 * [Email](mailto:hello@sakshamkhurana.com)
 
 ### 🏹 My Statistics
-![](https://github-readme-stats.vercel.app/api?username=dawnimpulse&show_icons=true&theme=drakula&count_private=true&custom_title=DawnImpulse)
+![](https://github-readme-stats-henna-delta.vercel.app/api?username=dawnimpulse&show_icons=true&theme=drakula&count_private=true&custom_title=DawnImpulse)
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=dawnimpulse&layout=compact&count_private=true&langs_count=6&hide=kotlin,java)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats-henna-delta.vercel.app/api/top-langs/?username=dawnimpulse&layout=compact&count_private=true&langs_count=6&hide=kotlin,java)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DawnImpulse/DawnImpulse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
